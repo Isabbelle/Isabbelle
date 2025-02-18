@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Isabelle Muresan!
+🚀 Cloud Systems Developer | AWS Certified | Infrastructure Automation
 
-<!--
-**Isabbelle/Isabbelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about cloud computing, automation, and scalable infrastructure
+🔹 Experienced with AWS, Terraform, Python, and CI/CD pipelines
+🔹 AWS Certified: Solutions Architect Associate & Developer Associate
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+☁️ Cloud: AWS 
+📜 IaC: Terraform
+💻 Languages: Python, Bash
+🛠 DevOps: GitHub, CI/CD, Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning 
+🔹 Azure
+
+⚡ Fun fact: I also do stand-up comedy hihi
+
+
