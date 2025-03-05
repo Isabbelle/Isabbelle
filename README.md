@@ -1,9 +1,10 @@
 👋  Hi, I'm Isabelle Muresan!
 🚀  Cloud Systems Developer | AWS Certified | Infrastructure Automation
 
-🔹  Passionate about cloud computing, automation, and scalable infrastructure
-🔹  Experienced with AWS, Terraform, Python, and CI/CD pipelines
-🔹  AWS Certified: Solutions Architect Associate & Developer Associate
+## 🔹 About Me 
+- Passionate about cloud computing, automation, and scalable infrastructure
+- Experienced with AWS, Terraform, Python, and CI/CD pipelines
+- AWS Certified: Solutions Architect Associate & Developer Associate
 
 🛠  Tech Stack
 ☁️  Cloud: AWS 
@@ -14,6 +15,6 @@
 🌱  Currently Learning 
 🔹  Azure
 
-⚡ Fun fact: I also do stand-up comedy hihi
+⚡ Fun fact: I also do stand-up comedy 
 
 
