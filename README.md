@@ -6,11 +6,11 @@
 - Experienced with AWS, Terraform, Python, and CI/CD pipelines
 - AWS Certified: Solutions Architect Associate & Developer Associate
 
-🛠  Tech Stack
-☁️  Cloud: AWS 
-📜  IaC: Terraform
-💻  Languages: Python, Bash
-🛠  DevOps: GitHub, CI/CD, Agile
+## 🛠 Tech Stack  
+☁️ **Cloud:** AWS  
+📜 **IaC:** Terraform  
+💻 **Languages:** Python, Bash  
+🛠 **DevOps:** GitHub, CI/CD, Agile  
 
 🌱  Currently Learning 
 🔹  Azure
